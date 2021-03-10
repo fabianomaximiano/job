@@ -1,0 +1,71 @@
+/* .panel-default>.panel-heading {
+    color: #fff;
+    background-color: #800;
+    border-color: #000;
+} */
+
+.header-usuarios{
+    padding: 20px 10px;
+    border-radius: 4px;
+    margin: 10px 0px;
+    text-align: center;
+}
+/* .cabecalho{
+    min-height: 150px;
+}
+.cabecalho > ul{
+    list-style: none;
+    padding: 5px 0px;
+    margin: 0px;
+}
+.cabecalho > ul > li{
+    display: inline;
+    margin: 0px 10px;
+}
+*/
+.box{
+    display: inline-block;
+}
+.saudacao{
+    padding: 5px  0px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+strong{
+    color: green;
+    font-weight: bold;
+    padding: 0px 3px;
+    text-transform: uppercase;
+}
+.difer{
+    padding: 30px 0px;
+    background-color: lightgrey;
+}
+button.modify {
+    margin-top: 25px;
+    padding: 5px 5px;
+    border-radius: 100%;
+    line-height: 15px;
+    background-color: dodgerblue;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 21px;
+}
+.circle{
+    width: 80px;
+    height: 80px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #800;
+    border: 1px solid #000;
+    text-align: center;
+    padding: 18px 10px;
+} 
+
+footer{
+    color: #fff;
+    background-color: #800;
+    padding: 20px 0px;
+    line-height: 10px;
+    margin: 20px 0px;
+}
